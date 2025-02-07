@@ -1,0 +1,20 @@
+# Core Libraries
+numpy==1.23.5
+pandas==1.5.3
+matplotlib==3.6.2
+seaborn==0.12.1
+
+# Deep Learning
+tensorflow==2.12.0
+keras==2.12.0
+
+# Image Processing
+opencv-python==4.7.0.72
+Pillow==9.5.0
+
+# Streamlit for Web App
+streamlit==1.23.1
+
+# Additional Utilities
+scikit-learn==1.2.2
+scipy==1.10.1
